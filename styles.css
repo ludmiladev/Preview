@@ -1,0 +1,8 @@
+ul> li {
+    background: red;
+}
+
+ol>li {
+    font-size: 20px;
+    color: brown;
+}
