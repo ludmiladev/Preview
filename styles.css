@@ -142,3 +142,54 @@
 /*.era {*/
 /*    color: green;*/
 /*}*/
+
+/*.header {*/
+/*    color: red;*/
+/*}*/
+
+/*h2, h3, .header {*/
+/*    color: red;*/
+/*}*/
+/*h2 .header {*/
+/*    font-size: 30px;*/
+/*}*/
+/*h3 .header {*/
+/*    font-size: 20px;*/
+/*}*/
+
+/*.block h2 {*/
+/*    color: red;*/
+/*}*/
+/*.block p {*/
+/*    color: green;*/
+/*}*/
+
+/*.block .header {*/
+/*    font-family: Arial;*/
+/*}*/
+/*.block h2.header {*/
+/*    font-size: 30px;*/
+/*    color: red;*/
+/*}*/
+/*.block h3.header {*/
+/*    font-size: 20px;*/
+/*    color: green;*/
+/*}*/
+
+/*#elem h2 {*/
+/*    color: red;*/
+/*}*/
+
+/*#elem p {*/
+/*    color: red;*/
+/*}*/
+/*/////////////////////////////////////////////////////////////////////////////////////////*/
+
+/*#elem li.text{*/
+/*    color: red;*/
+/*}*/
+/*////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+
+
