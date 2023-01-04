@@ -214,7 +214,14 @@
 /*    color: red;*/
 /*}*/
 
-main * p {
+/*main * p {*/
+/*    color: red;*/
+/*}*/
+
+a {
     color: red;
+}
+a:hover {
+    text-decoration: none;
 }
 
