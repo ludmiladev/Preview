@@ -214,3 +214,7 @@
 /*    color: red;*/
 /*}*/
 
+main * p {
+    color: red;
+}
+
