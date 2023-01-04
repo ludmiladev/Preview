@@ -202,8 +202,15 @@
 /*    color: red;*/
 /*}*/
 
-#block h2 {
-    color: red;
-}
+/*#block h2 {*/
+/*    color: red;*/
+/*}*/
 
+/*.test, p {*/
+/*    color: red;*/
+/*}*/
+
+/*.test ~ p {*/
+/*    color: red;*/
+/*}*/
 
