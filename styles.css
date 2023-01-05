@@ -218,10 +218,23 @@
 /*    color: red;*/
 /*}*/
 
-a {
+/*a {*/
+/*    color: red;*/
+/*}*/
+/*a:hover {*/
+/*    text-decoration: none;*/
+/*}*/
+
+/*#block a:link, #block a:visited {*/
+/*    color: red;*/
+/*}*/
+/*#block a:hover {*/
+/*    text-decoration: none;*/
+/*}*/
+
+a:link.eee, a:visited.eee {
     color: red;
 }
-a:hover {
+a:hover.eee {
     text-decoration: none;
 }
-
