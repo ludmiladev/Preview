@@ -232,9 +232,16 @@
 /*    text-decoration: none;*/
 /*}*/
 
-a:link.eee, a:visited.eee {
-    color: red;
-}
-a:hover.eee {
-    text-decoration: none;
+/*a:link.eee, a:visited.eee {*/
+/*    color: red;*/
+/*}*/
+/*a:hover.eee {*/
+/*    text-decoration: none;*/
+/*}*/
+
+#elem {
+    width: 300px;
+    height: 100px;
+    color: white;
+    background-color: orange; /* задаем оранжевый цвет фона */
 }
