@@ -86,8 +86,9 @@
 // function func() {
 //     console.log('!');
 // }
+
 // Сделайте функцию, выводящую в консоль ваше имя.
 // function func() {
-//     console.log('Liuda');
+//     console.log('Liudmila');
 // }
 // func()
