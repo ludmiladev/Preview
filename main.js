@@ -92,3 +92,52 @@
 //     console.log('Liudmila');
 // }
 // func()
+
+// Сделайте функцию, выводящую в консоль сумму чисел от 1 до 100.
+
+// for (let i = 0; i<100; i++){
+//     console.log(i);
+// }
+// func () {
+//     console.log();
+// }
+
+// function func(){
+//
+// }
+
+// function func(){
+//     console.log('!');
+// }
+// func()
+
+// func(); // выведет '!'
+//
+// function func() {
+//     console.log('!');
+// }
+//
+// function a(name){
+// console.log(a);
+//     // a('Lisa');
+// }
+// // a('Lisa');
+
+// function func() {
+//     console.log('Liudmila');
+// }
+// func()
+
+// Сделайте функцию, выводящую в консоль ваше имя.
+// function a(){
+//     console.log('Liudmila')
+// }
+// a();
+
+// Сделайте функцию, выводящую в консоль сумму чисел от 1 до 100.
+// function func(){
+//     for(let i=0; i<=100; i++){
+//         console.log(i);
+//     }
+// }
+// func();
