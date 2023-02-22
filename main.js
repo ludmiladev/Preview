@@ -245,7 +245,32 @@
 // }
 // func(-5)
 
-function func(num1, num2){
-    console.log(num1+num2);
-}
-func(5,3)
+// function func(num1, num2){
+//     console.log(num1+num2);
+// }
+// func(5,3)
+
+// Сделайте функцию, которая параметрами принимает 3 числа и выводит
+// в консоль сумму этих чисел.
+// function func(num1, num2, num3){
+//     console.log(num1+num2+num3);
+// }
+// func(2, 4, 5);
+
+
+// function func(num){
+//     console.log(num**2);
+// }
+// let param = 2;
+// func(param);
+
+// Сделайте функцию func, которая параметром будет принимать 3 числа и выводить
+// в консоль их сумму.Пусть даны 3 переменные с числами:
+// let param1 = 1;
+// let param2 = 2;
+// let param3 = 3;
+// function func(param1, param2, param3){
+//     console.log(param1+param2+param3);
+// }
+// func(param1, param2, param3);
+
