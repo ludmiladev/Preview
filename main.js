@@ -244,3 +244,8 @@
 //     }
 // }
 // func(-5)
+
+function func(num1, num2){
+    console.log(num1+num2);
+}
+func(5,3)
