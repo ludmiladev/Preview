@@ -274,3 +274,22 @@
 // }
 // func(param1, param2, param3);
 
+// function func(num=0) {
+//     console.log(num ** 2);
+// }
+// func(2); // выведет 4
+// func(); // выведет 0
+
+// function func(num = 5) {
+//     console.log(num * num);
+// }
+// func(2);
+// func(3);
+// func();
+
+// function func(num1 = 0, num2 = 0) {
+//     console.log(num1 + num2);
+// }
+// func(2, 3);
+// func(3);
+// func();
