@@ -293,3 +293,36 @@
 // func(2, 3);
 // func(3);
 // func();
+
+// function func(num){
+//     console.log(num**2);
+// }
+// let res = func(3); // в переменной res теперь 9
+
+// function func(num){
+//     return num**2;
+// }
+// // let res = func(5);
+// // console.log(res);
+//
+// let res = 3;
+// res = res + 1;
+// console.log(res);
+
+// let res = func(3) + 1;
+// console.log(res);
+
+// console.log(func(3));
+// let res = func(2) + func(3);
+// console.log(res); // выведет 13
+
+// function func(num){
+//     return num**3
+// }
+// console.log(func(3));
+// let res = func(3);
+// console.log(res);
+
+function func(num){
+    return num**2
+}
