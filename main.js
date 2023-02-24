@@ -523,13 +523,50 @@
 // console.log( func(10) );
 // console.log( func(-5) );
 // ------------------------------------------------------------------------------------------------
-function func(num) {
-    if (num <= 0) {
-        return Math.abs(num);
-    }
-
-    return num ** 2;
-}
-
-console.log( func(10) );
-console.log( func(-5) );
+// function func(num) {
+//     if (num <= 0) {
+//         return Math.abs(num);
+//     }
+//
+//     return num ** 2;
+// }
+//
+// console.log( func(10) );
+// console.log( func(-5) );
+// -----------------------------------------------------------------------------------------------
+// Пусть у нас есть функция, возвращающая сумму чисел от 1 до 5
+// function func() {
+//     let sum = 0;
+//
+//     for (let i = 1; i <= 5; i++) {
+//         sum += i;
+//     }
+//
+//     return sum;
+// }
+//
+// let res = func();
+// console.log(res); // выведет 15
+//-------------------------------------------------------------------------------------------------
+// function func() {
+//     let sum = 0;
+//
+//     for (let i = 1; i <= 5; i++) {
+//         sum += i;
+//         return sum;
+//     }
+// }
+//
+// let res = func();
+// console.log(res);
+//--------------------------------------------------------------------------------------------------
+// function func(num) {
+//     let sum = 0;
+//
+//     for (let i = 1; i <= 5; i++) {
+//         sum += i;
+//         return sum;
+//     }
+// }
+// let res = func();
+// console.log(res);
