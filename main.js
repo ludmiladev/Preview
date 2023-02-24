@@ -323,6 +323,90 @@
 // let res = func(3);
 // console.log(res);
 
-function func(num){
-    return num**2
-}
+// function func(num){
+//     return num**2
+// }
+
+// function func(num) {
+//     return num ** 2;
+// }
+//
+// let res = func(func(2));
+// console.log(res); // выведет 16
+//
+// function square(num) {
+//     return num ** 2;
+// }
+//
+// function cube(num) {
+//     return num ** 3;
+// }
+// let res cube(square(2));
+
+// function square(num) {
+//     return num ** 2;
+// }
+//
+// function cube(num) {
+//     return num ** 3;
+// }
+// let res = sum
+
+// function func(num){
+//     return num**2;
+// }
+// let res = func(func(2));
+// console.log(res);
+
+// функція, що повертає квадрат
+// function func(num){
+//     return num**2
+// }
+// console.log(func(5));
+
+// функція , що повертає куб
+// function func(num){
+//     return num**3
+// }
+//
+// console.log(func(2));
+
+
+
+// function square(num) {
+//     return num ** 2;
+// }
+//
+// function cube(num) {
+//     return num ** 3;
+// }
+// let res = cube(square(2));
+// console.log(res);
+
+// повертає квадратний корынь із числа
+// function square(num){
+//     return Math.sqrt(num); // ця функція повертає квадратний корінь із числа
+// }
+// function sum(num1, num2){
+//     return num1+num2;
+// }
+// function round(num){
+//     return num.toFixed(3)
+// }
+// let res = sum(square(2), square(2));
+// console.log(res);
+
+
+// Пусть у вас есть функция, возвращающая квадратный корень из числа, и функция,
+//     округляющая дробь до трех знаков в дробной части:
+// function sqrt(num) {
+//     return Math.sqrt(num); // ця функція повертає квадратний корінь із числа
+// }
+//
+// function round(num) {
+//     return num.toFixed(3);  // ця функція округляє дроби до 3 знаків
+// }
+// // С помощью этих функций найдите квадратный корень из числа 2
+// // и округлите его до трех знаков в дробной части.
+// let res = round(sqrt(2));
+// console.log(res);
