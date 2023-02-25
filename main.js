@@ -652,3 +652,49 @@
 // let sum = func(25)+func(36)
 // console.log(sum);
 //--------------------------------------------------------------------------------------------------------
+// function func(num){
+//     return num**2
+// }
+// let res = func(2)
+// console.log(res);
+//
+// let res2= func(func(2));
+// console.log(res2);
+//--------------------------------------------------------------------------------------------------------
+// function sqrt(num){
+//     return Math.sqrt(num);
+// }
+//
+// console.log(sqrt(2));
+// function round(num){
+//     return num.toFixed(3);
+// }
+// console.log(round(sqrt(2)));
+//--------------------------------------------------------------------------------------------------------
+// function sqrt(num){
+//     return Math.sqrt(num);
+// }
+// function sum(num1, num2, num3){
+//     return num1+num2+num3;
+// }
+// let res1 = sum(25,36,9)
+// console.log(res1);
+//--------------------------------------------------------------------------------------------------------
+// function func(num) {
+//     return num ** 2;
+//
+//     console.log('!'); // этот код никогда не выполнится
+// }
+//
+// let res = func(3);
+//--------------------------------------------------------------------------------------------------------
+function func(num) {
+    if (num >= 0) {
+        return '+++';
+    } else {
+        return '---';
+    }
+}
+
+console.log(func( 3)); // выведет '+++'
+console.log(func(-3)); // выведет '---'
